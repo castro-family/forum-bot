@@ -1,9 +1,5 @@
 {
-    "version": "1.0.0",
-    "test": "test",
-    "test2": "test",
-    "test3": "test",
-    "tes4": "test",
-    "test5": "test",
-    "test6": "test"
+    'version': '1.0.0',
+    'test': 'test',
+    'test2': 'test'
 }
